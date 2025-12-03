@@ -40,12 +40,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 Estadísticas
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
-</p>
-
 ### 🏆 GitHub Metrics
 (Se actualiza automáticamente cada 6 horas)
 
