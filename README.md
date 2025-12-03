@@ -25,23 +25,17 @@ Here are some ideas to get you started:
 🚀 Actualmente desarrollando:
 - Aplicación Android de **gastos compartidos** con Firebase  
 - Sistema de **inventario de alimentos** con SQL + app móvil  
-- Juego en Java con **ruletas y gestión de jugadores**
 
 💡 Siempre estudiando más sobre **accesibilidad**, **arquitecturas limpias**, y buenas prácticas.
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### Lenguajes y tecnologías principales
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,sqlite,firebase,git,github,idea,eclipse,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,sqlite,git,github,idea,eclipse,maven,gradle" />
 </p>
 
 ### Otras herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,docker,linux,aws" />
-</p>
 
 ---
 
@@ -70,9 +64,10 @@ Here are some ideas to get you started:
 
 ### 📦 Sistema de inventario de alimentos
 📌 SQL Workbench  
+📌 JAVA
 📌 App móvil futura con escáner de códigos de barras  
 
-### 🎮 Juego Java con ruletas
+### 🎮 Juego Java con ruleta
 📌 Gestor de jugadores  
 📌 Partidas con MySQL  
 📌 Lógica avanzada de juego  
