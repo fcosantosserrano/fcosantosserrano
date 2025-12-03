@@ -1,80 +1,92 @@
-<!--
-**fcosantosserrano/fcosantosserrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Banner opcional -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=180&section=header&text=Francisco%20Santos&fontSize=45&fontColor=ffffff" />
-</p>
-
----
-
-# 👋 ¡Hola! Soy **Francisco Santos**
-
-📍 Desarrollador orientado a **Java**, **Android**, **bases de datos**, y creación de apps prácticas  
-🚀 Actualmente desarrollando:
-- Aplicación Android de **gastos compartidos** con Firebase  
-- Sistema de **inventario de alimentos** con SQL + app móvil  
-
-💡 Siempre estudiando más sobre **accesibilidad**, **arquitecturas limpias**, y buenas prácticas.
----
-## 🛠️ Tech Stack
-
-### Lenguajes y tecnologías principales
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,sqlite,git,github,idea,eclipse,maven,gradle" />
-</p>
-
-### Otras herramientas
-
----
-
-## 📊 Estadísticas
-### 🏆 GitHub Metrics
-(Se actualiza automáticamente cada 6 horas)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8CFF,100:003A88&height=180&section=header&text=Francisco%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%">
 
 <p align="center">
-<img src="./github-metrics.svg" />
+  <b>📱 Desarrollador Android | ☕ Java | 🗄️ Bases de datos | 🔥 Firebase</b><br>
+  Amante de crear apps útiles, limpias y con buen rendimiento.
 </p>
 
 ---
 
-## ⭐ Proyectos Destacados
+## 🧠 Sobre mí
 
-### 🔥 App de gastos compartidos (Android + Firebase)
-📌 Sincronización en tiempo real  
-📌 Gestión multiusuario  
-📌 Interfaz intuitiva  
+Soy un desarrollador en crecimiento centrado en:
+- Desarrollo Android con sincronización en tiempo real  
+- Backend en Java y SQL  
+- Apps prácticas como control de inventarios o gestión de gastos  
+- Automatización con GitHub Actions y workflows  
 
-### 📦 Sistema de inventario de alimentos
-📌 SQL Workbench  
-📌 JAVA
-📌 App móvil futura con escáner de códigos de barras  
-
-### 🎮 Juego Java con ruleta
-📌 Gestor de jugadores  
-📌 Partidas con MySQL  
-📌 Lógica avanzada de juego  
+Me gusta aprender rápido, resolver problemas y crear software que funcione **de verdad**, no solo demos.
 
 ---
 
-## 📬 Contacto
+## 🛠️ Skills & tecnologías
 
-🔗 LinkedIn: *LinkedIn*  
-🐙 GitHub: **github.com/fcosantosserrano**
+### 🔹 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,py,c,cpp,mysql" />
+</p>
+
+### 🔹 Herramientas & frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,github,git,idea,vscode,sqlite,linux,docker" />
+</p>
 
 ---
+
+## 🚀 Proyectos Destacados
+
+### 📱 **App Android de Gastos Compartidos** (en desarrollo)
+- Hecha en Android Studio  
+- Firebase Auth + Firestore  
+- Gestión multiusuario en tiempo real  
+- Cálculo automático de deudas
+
+---
+
+### 🍔 **Inventario de Comida con MySQL**
+- Gestión de alimentos y caducidades  
+- Ideal para no tirar comida  
+- Listo para futura app móvil + lector de códigos de barras
+
+---
+
+### 🎮 **Juego en Java: Ruleta de la Fortuna**
+- Sistema de jugadores  
+- Base de datos MySQL  
+- Estadísticas y dinámica de partida
+
+---
+
+## 📊 Mis estadísticas
+
+### 🔹 GitHub Metrics (auto-actualizado)
+<p align="center">
+  <img src="./github-metrics.svg" width="100%">
+</p>
+
+---
+
+## 🧩 Extras
+
+### 📈 Actividad reciente
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fcosantosserrano&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+## 📫 Contacto
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=150&section=footer" />
+  <a href="mailto:fcosantosserrano@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fcosantosserrano">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003A88,100:5B8CFF&height=120&section=footer" width="100%">
