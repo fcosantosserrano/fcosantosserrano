@@ -37,11 +37,15 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
+          # Asegurar que estamos sincronizados con el repo remoto
+          git pull origin main --rebase || true
+
           if [ -f github-metrics.svg ]; then
             git add github-metrics.svg
             git commit -m "Update GitHub metrics" || echo "No changes"
-            git push
+            git push origin main
           else
             echo "github-metrics.svg was NOT generated!"
             exit 1
           fi
+
