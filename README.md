@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8CFF,100:003A88&height=180&section=header&text=Francisco%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%">
 
 <p align="center">
-  <b>📱 Desarrollador Android | ☕ Java | 🗄️ Bases de datos</b><br>
+  <b>📱 Desarrollador Multiplataforma | ☕ Java | 🗄️ Bases de datos</b><br>
   Amante de crear apps útiles, limpias y con buen rendimiento.
 </p>
 
@@ -9,11 +9,11 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador que quiere estar en crecimiento con:
-- Desarrollo Android con sincronización en tiempo real  
-- Backend en Java y SQL  
-- Apps prácticas como control de inventarios o gestión de gastos  
-- Automatización con GitHub Actions y workflows  
+Soy un desarrollador multiplataforma que busca crecer en este mundo conociendo lenguajes:
+- Desarrollando en Android con sincronizaciónes en tiempo real  
+- Aprender Backend para fortalecer mis conocimientos  
+- Apps prácticas como controlar y gestionar productos  
+- Aprender a automatizar todo 
 
 Me gusta aprender rápido, resolver problemas y crear software que funcione **de verdad**, no solo demos.
 
@@ -71,6 +71,20 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 ### 📈 Actividad reciente
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fcosantosserrano&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+---
+
+## ☁️ Salesforce & Formación
+
+### 🧩 Skills en Salesforce
+
+
+### 🏅 Trailhead
+<p align="center">
+  <a href="https://www.salesforce.com/trailblazer/fcosantosserrano">
+    <img src="https://img.shields.io/badge/Trailhead-Visit%20my%20profile-00A1E0?logo=salesforce&style=for-the-badge">
+  </a>
 </p>
 
 ---
