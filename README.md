@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Android](https://img.shields.io/badge/Android-green?logo=android)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
