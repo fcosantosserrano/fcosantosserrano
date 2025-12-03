@@ -1,86 +1,77 @@
-<!--
-**fcosantosserrano/fcosantosserrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hola, soy Francisco</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Banner opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=180&section=header&text=Francisco%20Santos&fontSize=45&fontColor=ffffff" />
+  <b>Desarrollador Java • Android • Bases de datos • Firebase • Git</b><br>
+  Amante del software limpio, la automatización y aprender tecnologías nuevas.
 </p>
 
 ---
 
-# 👋 ¡Hola! Soy **Francisco Santos**
+## 🧰 Tech Stack
 
-📍 Desarrollador orientado a **Java**, **Android**, **bases de datos**, y creación de apps prácticas  
-🚀 Actualmente desarrollando:
-- Aplicación Android de **gastos compartidos** con Firebase  
-- Sistema de **inventario de alimentos** con SQL + app móvil  
+**Lenguajes**
+- Java · SQL · JavaScript · Python · C
 
-💡 Siempre estudiando más sobre **accesibilidad**, **arquitecturas limpias**, y buenas prácticas.
----
-## 🛠️ Tech Stack
+**Frameworks y tecnologías**
+- Android Studio · Firebase · MySQL · SQLite  
+- Eclipse · Git · GitHub · Git Bash · Maven  
+- VirtualBox / VMware
 
-### Lenguajes y tecnologías principales
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,sqlite,git,github,idea,eclipse,maven,gradle" />
-</p>
-
-### Otras herramientas
+**Intereses actuales**
+- Apps móviles con sincronización en tiempo real  
+- Integración con Firebase (Auth, Firestore, Storage)  
+- Juegos y mecánicas como ruletas / sistemas de suerte  
+- Automatización y workflows
 
 ---
 
-## 📊 Estadísticas
+## 🚀 Proyectos Destacados
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
-</p>
+### 📱 **App Android de Gestión de Gastos Compartidos**
+- Sincronización con Firebase en tiempo real  
+- Múltiples usuarios  
+- División automática de gastos  
+- En desarrollo
 
-### 🏆 GitHub Metrics
-(Se actualiza automáticamente cada 6 horas)
+### 🍔 **App de Inventario de Comida**
+- Gestión de productos y caducidades  
+- Base de datos en MySQL  
+- Futuro: versión móvil con escaneo de códigos de barras
 
-<p align="center">
-<img src="./github-metrics.svg" />
-</p>
-
----
-
-## ⭐ Proyectos Destacados
-
-### 🔥 App de gastos compartidos (Android + Firebase)
-📌 Sincronización en tiempo real  
-📌 Gestión multiusuario  
-📌 Interfaz intuitiva  
-
-### 📦 Sistema de inventario de alimentos
-📌 SQL Workbench  
-📌 JAVA
-📌 App móvil futura con escáner de códigos de barras  
-
-### 🎮 Juego Java con ruleta
-📌 Gestor de jugadores  
-📌 Partidas con MySQL  
-📌 Lógica avanzada de juego  
+### 🎮 **Juego en Java (Ruleta de la Fortuna)**
+- Jugadores, resultados, base de datos MySQL  
+- Lógica de partidas, probabilidades y estadísticas
 
 ---
 
-## 📬 Contacto
+## 📊 Mis estadísticas
 
-🔗 LinkedIn: *LinkedIn*  
-🐙 GitHub: **github.com/fcosantosserrano**
-
----
+### 📈 GitHub Metrics
+> *(Se actualiza automáticamente cada 6 horas)*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=150&section=footer" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
+
+---
+
+## 🛠️ Herramientas que uso día a día
+- Git + GitHub  
+- Eclipse / IntelliJ  
+- Android Studio  
+- SQL Workbench  
+- VS Code  
+- Docker básico  
+- VirtualBox / VMware
+
+---
+
+## 📫 Cómo contactar conmigo
+- **Email:** fcosantosserrano@gmail.com  
+- **GitHub:** <a href="https://github.com/fcosantosserrano">@fcosantosserrano</a>
+
+---
+
+<p align="center">
+  ✨ *Siempre aprendiendo, siempre mejorando.*
 </p>
