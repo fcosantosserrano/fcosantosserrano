@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=fcosantosserrano&show_icons=true&theme=tokyonight](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fcosantosserrano&show_icons=true&theme=tokyonight
-)" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=fcosantosserrano&show_icons=true&theme=tokyonight](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fcosantosserrano&show_icons=true&theme=tokyonight)" />
 </p>
 
 ### 🏆 GitHub Metrics
