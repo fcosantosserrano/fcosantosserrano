@@ -4,47 +4,36 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: fcosantosserrano
-          config_timezone: Europe/Madrid
           template: classic
           base: header, activity, community, repositories, metadata
-
-          # -----------------------
-          # PLUGINS CORRECTOS
-          # -----------------------
-
+          config_timezone: Europe/Madrid
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
           plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentages
-          plugin_languages_limit: 8
-          plugin_languages_colors: github
-          plugin_languages_threshold: 1%
-
           plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-          plugin_activity_load: 200
-
           plugin_lines: yes
-
           plugin_followup: yes
-          plugin_followup_sections: repositories
+
+      - name: Commit metrics
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add github-metrics.svg
+          git commit -m "Update GitHub metrics" || echo "No changes"
+          git push
