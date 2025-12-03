@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 (Se actualiza automáticamente cada 6 horas)
 
 <p align="center">
-  <img src="./github-metrics.svg" />
+<img src="./github-metrics.svg" />
 </p>
 
 ---
