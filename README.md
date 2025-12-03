@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Sobre mi
 
 Soy un desarrollador multiplataforma que busca crecer en este mundo conociendo lenguajes:
 - Desarrollando en Android con sincronizaciónes en tiempo real  
