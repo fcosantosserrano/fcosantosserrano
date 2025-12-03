@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8CFF,100:003A88&height=180&section=header&text=Francisco%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%">
 
 <p align="center">
-  <b>📱 Desarrollador Android | ☕ Java | 🗄️ Bases de datos | 🔥 Firebase</b><br>
+  <b>📱 Desarrollador Android | ☕ Java | 🗄️ Bases de datos</b><br>
   Amante de crear apps útiles, limpias y con buen rendimiento.
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador en crecimiento centrado en:
+Soy un desarrollador que quiere estar en crecimiento con:
 - Desarrollo Android con sincronización en tiempo real  
 - Backend en Java y SQL  
 - Apps prácticas como control de inventarios o gestión de gastos  
@@ -23,12 +23,12 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 
 ### 🔹 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,py,c,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql" />
 </p>
 
 ### 🔹 Herramientas & frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,github,git,idea,vscode,sqlite,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,github,git,vscode,linux,maven,eclipse" />
 </p>
 
 ---
@@ -43,7 +43,7 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 
 ---
 
-### 🍔 **Inventario de Comida con MySQL**
+### 🍔 **Inventario de Comida con MySQL**  (en desarrollo)
 - Gestión de alimentos y caducidades  
 - Ideal para no tirar comida  
 - Listo para futura app móvil + lector de códigos de barras
@@ -61,7 +61,7 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 
 ### 🔹 GitHub Metrics (auto-actualizado)
 <p align="center">
-  <img src="./github-metrics.svg" width="100%">
+  <img src="./github-metrics.svg" width="50%">
 </p>
 
 ---
