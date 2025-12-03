@@ -12,23 +12,80 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=180&section=header&text=Francisco%20Santos&fontSize=45&fontColor=ffffff" />
+</p>
 
-# 👋 ¡Hola, soy Francisco!
+---
 
-🌱 Actualmente estoy trabajando en una **app Android** con Firebase  
-💻 Me gusta Java, SQL, Android y aprender cosas nuevas  
-🔥 Apasionado por la accesibilidad digital  
-🚀 En mis ratos libres trasteo con Git, máquinas virtuales y bases de datos
+# 👋 ¡Hola! Soy **Francisco Santos**
 
-## 🛠️ Tecnologías que uso
-![Java](https://img.shields.io/badge/Java-red?logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Android](https://img.shields.io/badge/Android-green?logo=android)
+📍 Desarrollador orientado a **Java**, **Android**, **bases de datos**, y creación de apps prácticas  
+🚀 Actualmente desarrollando:
+- Aplicación Android de **gastos compartidos** con Firebase  
+- Sistema de **inventario de alimentos** con SQL + app móvil  
+- Juego en Java con **ruletas y gestión de jugadores**
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+💡 Siempre estudiando más sobre **accesibilidad**, **arquitecturas limpias**, y buenas prácticas.
 
-## 🚧 Proyectos destacados
-- 🔗 **App de gastos compartidos** (Android + Firebase)  
-- 🎰 **Juego de ruleta** (Java + MySQL)  
-- 🍎 **Inventario de comida doméstica** (Java + SQL + app móvil pronto)
+---
+
+## 🛠️ Tech Stack
+
+### Lenguajes y tecnologías principales
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,mysql,sqlite,firebase,git,github,idea,eclipse,maven,gradle" />
+</p>
+
+### Otras herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,docker,linux,aws" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fcosantosserrano&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🏆 GitHub Metrics
+(Se actualiza automáticamente cada 6 horas)
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
+
+## ⭐ Proyectos Destacados
+
+### 🔥 App de gastos compartidos (Android + Firebase)
+📌 Sincronización en tiempo real  
+📌 Gestión multiusuario  
+📌 Interfaz intuitiva  
+
+### 📦 Sistema de inventario de alimentos
+📌 SQL Workbench  
+📌 App móvil futura con escáner de códigos de barras  
+
+### 🎮 Juego Java con ruletas
+📌 Gestor de jugadores  
+📌 Partidas con MySQL  
+📌 Lógica avanzada de juego  
+
+---
+
+## 📬 Contacto
+
+🔗 LinkedIn: *LinkedIn*  
+🐙 GitHub: **github.com/fcosantosserrano**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=150&section=footer" />
+</p>
