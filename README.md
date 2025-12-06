@@ -23,7 +23,7 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 
 ### 🔹 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql,cpp" />
 </p>
 
 ### 🔹 Herramientas & frameworks
