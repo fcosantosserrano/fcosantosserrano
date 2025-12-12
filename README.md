@@ -28,7 +28,7 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 
 ### 🔹 Herramientas & frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,github,git,vscode,linux,maven,eclipse" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,github,git,vscode,linux,maven,eclipse,hibernate" />
 </p>
 
 ---
