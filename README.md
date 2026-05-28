@@ -23,12 +23,12 @@ Me gusta aprender rápido, resolver problemas y crear software que funcione **de
 
 ### 🔹 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql,cpp,cs,py,react" />
+  <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql,cpp,cs,py,react,kotlin" />
 </p>
 
 ### 🔹 Herramientas & frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,github,git,vscode,linux,maven,eclipse,hibernate,mongodb,androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,linux,maven,eclipse,hibernate,mongodb,androidstudio,firebase" />
 </p>
 
 ---
